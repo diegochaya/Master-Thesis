@@ -1,0 +1,3 @@
+model_type,model_tag,model_path,train_lambda_min,train_lambda_max,train_gamma_min,train_gamma_max,training_folders_used,training_folders_missing,training_bounds_complete
+random_forest,random_forest_dataframesBarrido,outputs/random_forest_dataframesBarrido/modelo_random_forest.joblib,-0.15,0.15,0.03,0.14,dataframesBarrido,,True
+mlp,red_neuronal_dataframesBarrido,outputs/red_neuronal_dataframesBarrido/modelo_parametros.pt,-0.15,0.15,0.03,0.14,dataframesBarrido,,True

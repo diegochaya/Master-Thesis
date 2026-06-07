@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+
+Documento/
+Papers/
+TIFOSI/
+dataframesCarpetas/
+comparar_features_reales_barrido.py
+explorar_triangulos_lambda_gamma.py

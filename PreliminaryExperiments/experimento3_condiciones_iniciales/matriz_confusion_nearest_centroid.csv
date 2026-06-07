@@ -1,0 +1,5 @@
+,pred: I_perfect,pred: I_2000,pred: I_1000_1,pred: I_1000_2
+real: I_perfect,7,6,8,9
+real: I_2000,5,7,9,9
+real: I_1000_1,5,1,17,7
+real: I_1000_2,7,7,8,8
